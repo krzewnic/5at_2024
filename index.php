@@ -107,7 +107,7 @@
               <div class="input-group">
                 <div class="input-group-prepend">
                   <button type="submit" class="btn btn-search pe-1">
-                    <i class="fa fa ikona wyszukiwania"></i>
+                    <i class="fa fa-heart heart text-danger"></i>
                   </button>
                 </div>
                 <input type="text" placeholder="Search ..." class="form-control" />
@@ -126,6 +126,21 @@
             <div>
               <h3 class="fw-bold mb-3">Strona główna</h3>
               <h6 class="op-7 mb-2">Tutaj dodajemy linki do podstron albo jakieś inne rzeczy</h6>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              
             </div>            
           </div>
         </div>
