@@ -153,7 +153,7 @@
           </nav>
           <div class="copyright">
             2024, zrobione z  <i class="fa fa-heart heart text-danger"></i> przez
-            <a href="http://www.themekita.com">ThemeKita</a>
+            <a href="http://www.themekita.com">TematowaZestawa</a>
           </div>
           <div>
             Zdystrybutowany przez
