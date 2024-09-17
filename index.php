@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 
 <head>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -67,7 +67,7 @@
             <li class="nav-item">
               <a href="template/index.html">
                 <i class="fas fa-file"></i>
-                <p>Demo Templatki</p>
+                <p>Demonstracyjne Templatki</p>
                 
               </a>
             </li>            
@@ -83,7 +83,7 @@
           <!-- Logo Header -->
           <div class="logo-header" data-background-color="dark">
             <a href="index.html" class="logo">
-              <img src="template/assets/img/kaiadmin/logo_light.svg" alt="navbar brand" class="navbar-brand"
+              <img src="template/assets/img/kaiadmin/logo_light.svg" alt="marka naver" class="navbar-brand"
                 height="20" />
             </a>
             <div class="nav-toggle">
@@ -107,7 +107,7 @@
               <div class="input-group">
                 <div class="input-group-prepend">
                   <button type="submit" class="btn btn-search pe-1">
-                    <i class="fa fa-search search-icon"></i>
+                    <i class="fa fa ikona wyszukiwania"></i>
                   </button>
                 </div>
                 <input type="text" placeholder="Search ..." class="form-control" />
@@ -144,15 +144,15 @@
                 </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"> Help </a>
+                <a class="nav-link" href="#"> pomoc </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#"> Licenses </a>
+                <a class="nav-link" href="#"> licencje </a>
               </li>
             </ul>
           </nav>
           <div class="copyright">
-            2024, made with <i class="fa fa-heart heart text-danger"></i> by
+            2024, zrobione z  <i class="fa fa-heart heart text-danger"></i> przez
             <a href="http://www.themekita.com">ThemeKita</a>
           </div>
           <div>
