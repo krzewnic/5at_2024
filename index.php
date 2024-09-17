@@ -156,8 +156,8 @@
             <a href="http://www.themekita.com">ThemeKita</a>
           </div>
           <div>
-            Distributed by
-            <a target="_blank" href="https://themewagon.com/">ThemeWagon</a>.
+            Zdystrybutowany przez
+            <a target="_blank" href="https://themewagon.com/">WagonTematowy</a>.
           </div>
         </div>
       </footer>
